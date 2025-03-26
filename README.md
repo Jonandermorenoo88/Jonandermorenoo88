@@ -1,1 +1,1 @@
-<h1 style="text-aling: center"> Hola, soy Jon Ander </h1>
+<h1 style="text-align: center;">Hola, soy Jon Ander</h1>
