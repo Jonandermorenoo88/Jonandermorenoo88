@@ -14,7 +14,6 @@ Por eso, mi próximo objetivo es estudiar un máster en ciberseguridad que me pe
 </P>
 
 <h2>Contacto</h2>
-## Contacto
 <p align="center">
 	<a href="mailto:jaincera97@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Jonandermorenoo88"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
