@@ -1,3 +1,1 @@
-<p align="center">
-  Este texto puede centrarse en GitHub.
-</p>
+<h1 align="center">Hola, soy Jon Ander</h1>
