@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Jon Ander</h1>
+<h1 align="center">Hola, soy Jon Ander<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center">
   <img src="bannergithub.png" alt="Banner" width="600">
 </p>
