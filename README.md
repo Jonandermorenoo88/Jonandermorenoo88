@@ -12,3 +12,7 @@ Actualmente trabajo como consultor de ciberseguridad, ayudando a empresas a prot
 
 Por eso, mi próximo objetivo es estudiar un máster en ciberseguridad que me permita especializarme aún más y afrontar nuevos retos profesionales con mayor preparación.
 </P>
+
+<h2>Contacto</h2>
+<a href="mailto:ossinsight@pingcap.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
