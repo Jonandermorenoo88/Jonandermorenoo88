@@ -1,1 +1,1 @@
-<p style="text-align:center;">Hola</p>
+<h1 aling:"center">Hola</h1>
