@@ -14,5 +14,5 @@ Por eso, mi próximo objetivo es estudiar un máster en ciberseguridad que me pe
 </P>
 
 <h2>Contacto</h2>
-<a href="mailto:ossinsight@pingcap.com" target="_blank">
+<a href="mailto:jaincera97@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
