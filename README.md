@@ -150,9 +150,9 @@ Por eso, mi próximo objetivo es estudiar un máster en ciberseguridad que me pe
     <img alt="ISO 27001" src="https://img.shields.io/badge/ISO%2027001-Information%20Security-blue?style=plastic&logo=databricks&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.iso.org/iso-22000-food-safety-management.html" target="_blank">
-    <img alt="ISO 22301" src="https://img.shields.io/badge/ISO%2022000-Food%20Safety-green?style=plastic&logo=codechef&logoColor=white">
-  </a>
+  <a href="https://www.iso.org/iso-22301-business-continuity.html" target="_blank">
+	    <img alt="ISO 22301" src="https://img.shields.io/badge/ISO%2022301-Business%20Continuity-purple?style=plastic&logo=buffer&logoColor=white">
+   </a>
   &emsp;
   <a href="https://ens.ccn.cni.es/" target="_blank">
     <img alt="ENS" src="https://img.shields.io/badge/ENS-Esquema%20Nacional%20de%20Seguridad-red?style=plastic&logo=shield&logoColor=white">
@@ -169,6 +169,7 @@ Por eso, mi próximo objetivo es estudiar un máster en ciberseguridad que me pe
 	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>-->
 </p>
+
 
 
 
