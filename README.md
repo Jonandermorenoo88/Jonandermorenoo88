@@ -142,6 +142,8 @@ Por eso, mi próximo objetivo es estudiar un máster en ciberseguridad que me pe
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>-->
 </p>
 
+### 📜 Normativas y Estándares
+
 <p align="center">
   &emsp;
   <a href="https://www.iso.org/isoiec-27001-information-security.html" target="_blank">
@@ -167,5 +169,6 @@ Por eso, mi próximo objetivo es estudiar un máster en ciberseguridad que me pe
 	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>-->
 </p>
+
 
 
